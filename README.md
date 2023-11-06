@@ -18,6 +18,10 @@ Clone the repo before you use VSC on it.
 
 In an empty folder sets it up & VSC mostly works from there...
 
+But syncing is still weird.
+
+If you update anything in the submodule, you have to sync it first, THEN the main repo.
+
 # Some links:
 
 * [SUBMODULES: A git repo inside a git repo.](https://dev.to/jjokah/submodules-a-git-repo-inside-a-git-repo-36l9)

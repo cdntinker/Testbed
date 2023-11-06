@@ -22,6 +22,14 @@ But syncing is still weird.
 
 If you update anything in the submodule, you have to sync them both explicitly.
 
+# and then it borks... :|
+
+fatal: remote error: upload-pack: not our ref 302a1c1c6d6e59ab5d8807de2c1399b20901ab85
+
+Fetched in submodule path 'KiCAD_Customs', but it did not contain 302a1c1c6d6e59ab5d8807de2c1399b20901ab85. Direct fetching of that commit failed.
+
+https://stackoverflow.com/questions/58309538/what-does-upload-pack-not-our-ref-mean-when-fetching-git-refs-via-tags
+
 # Some links:
 
 * [SUBMODULES: A git repo inside a git repo.](https://dev.to/jjokah/submodules-a-git-repo-inside-a-git-repo-36l9)

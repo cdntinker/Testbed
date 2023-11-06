@@ -20,7 +20,7 @@ In an empty folder sets it up & VSC mostly works from there...
 
 But syncing is still weird.
 
-If you update anything in the submodule, you have to sync it first, THEN the main repo.
+If you update anything in the submodule, you have to sync them both explicitly.
 
 # Some links:
 
